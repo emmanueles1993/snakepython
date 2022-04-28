@@ -11,9 +11,12 @@ learning python 🙂
 ## Autores
 
 - Emmanuel Estupiñan
-  
-  ##Installation
-  git clone https://github.com/emmanueles1993/snakepython.git
-  cd snake
+
+## Installation
+
+```bash
+  git clone  https://github.com/emmanueles1993/snakepython.git
+  cd snake-game
   py || python || python3 main.py
-  enjoy 😄
+  enjoy 🐍😎
+```
