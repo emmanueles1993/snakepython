@@ -8,10 +8,11 @@ class Food(Turtle):#crear clase Food, la herencia es entre parentesis, en este c
         self.shape("circle")
         self.penup()  
         self.shapesize(stretch_len=0.5, stretch_wid=0.5)
-        self.color("green")
+        self.color("Blue")
         self.refresh() #para que la comida aparezca en lugar diferente cada vez q se abre la pantalla
 
     def refresh(self): #metodo para refrescar y generar nuevo lugar de la comida
         random_x = random.randint(-200, 200)#no debe pasar de 300 ó se sale de la pantalla
         random_y = random.randint(-200, 200)#no debe pasar de 300 ó se sale de la pantalla
-        self.goto(random_x, random_y) 
+        self.goto(random_x, random_y)
+         
