@@ -19,7 +19,7 @@ snake_segment3.goto(-40,0)
 '''
 screen = Screen()#se instancia ó crea objeto
 screen.setup(width=600, height=600)#metodo setup sale de Screen
-screen.bgcolor("Red")
+screen.bgcolor("black")
 screen.title ("Programate snake")
 
 screen.tracer(0)#DESACTIVAR EL EFECTO Animación por defecto
