@@ -16,7 +16,7 @@ learning python 🙂
 
 ```bash
   git clone  https://github.com/emmanueles1993/snakepython.git
-  cd snake-game
+  cd snake
   py || python || python3 main.py
   enjoy 🐍😎
 ```
